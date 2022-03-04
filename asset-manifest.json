@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DimaMirk/goit-react-hw-02-feedback/static/css/main.d927dca9.css",
+    "main.js": "/DimaMirk/goit-react-hw-02-feedback/static/js/main.889ce526.js",
+    "static/js/787.461ae4cb.chunk.js": "/DimaMirk/goit-react-hw-02-feedback/static/js/787.461ae4cb.chunk.js",
+    "index.html": "/DimaMirk/goit-react-hw-02-feedback/index.html",
+    "main.d927dca9.css.map": "/DimaMirk/goit-react-hw-02-feedback/static/css/main.d927dca9.css.map",
+    "main.889ce526.js.map": "/DimaMirk/goit-react-hw-02-feedback/static/js/main.889ce526.js.map",
+    "787.461ae4cb.chunk.js.map": "/DimaMirk/goit-react-hw-02-feedback/static/js/787.461ae4cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d927dca9.css",
+    "static/js/main.889ce526.js"
+  ]
+}
